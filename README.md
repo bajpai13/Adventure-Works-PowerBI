@@ -10,3 +10,21 @@ In this report, you'll find a wide array of visuals, including bar charts, table
 The report is meticulously detailed, encompassing product-level information and customer-level insights, empowering the company to scrutinize specific product performance and delve into customer behavior patterns.
 
 Lastly thank you Maven Analytics for such a great learning experience.
+
+## Screenshots
+
+- Dashboard
+
+![](Screenshot/1.png)
+
+- Map View
+
+![](Screenshot/2.png)
+
+- Products
+
+![](Screenshot/3.png)
+
+- Customers
+
+![](Screenshot/4.png)
