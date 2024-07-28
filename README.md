@@ -9,7 +9,27 @@ In this report, you'll find a wide array of visuals, including bar charts, table
 
 The report is meticulously detailed, encompassing product-level information and customer-level insights, empowering the company to scrutinize specific product performance and delve into customer behavior patterns.
 
-Lastly thank you Maven Analytics for such a great learning experience.
+
+## Overview
+
+### Dashboard Design
+- Identify key performance indicators (KPIs).
+- Design an intuitive, visually engaging dashboard.
+- Implement interactive visualizations and filtering capabilities for detailed data exploration.
+
+### Data Insights
+- Deliver valuable insights to business stakeholders on the effectiveness of their sales strategies.
+- Utilize various visualizations and charts to present data.
+  
+### Strategic Insights and Recommendations
+- Aim to provide insights and actionable information to drive strategic decisions supporting the supermarket's goals for growth, efficiency, and customer satisfaction.
+
+
+## Key Learnings
+- Applied data analysis techniques, with a focus on time series analysis.
+- Delivered valuable insights and accurate sales forecasts.
+- Created interactive dashboards to drive business success.
+- 
 
 ## Screenshots
 
